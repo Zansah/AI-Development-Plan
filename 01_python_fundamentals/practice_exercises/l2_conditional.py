@@ -10,9 +10,6 @@ def is_even_or_odd(num):
     else:
         return "Odd"
 
-    
-
-
 def divisible_by_3_and_5(num):
     """Check if number is divisible by both 3 and 5."""
     # TODO: check divisibility
